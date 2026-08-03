@@ -148,7 +148,7 @@ OPEN_TO    = "Internships . Collabs . Open Source . Entry-level SDE roles"
 | **Image Uploads** | Cloudinary integration |
 | **Version Control** | Git / GitHub |
 | **Features** | Table management · Order flow · Kitchen coordination · Menu & inventory admin |
-| **My Role** | Frontend UI/UX · Backend integration · Cloudinary feature · Navigation improvements · Docs |
+| **My Role** | Frontend UI/UX · Backend integration · Images  · Navigation improvements · Docs |
 
 </details>
 
