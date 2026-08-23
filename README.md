@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BCA-Amity%20University%20Mumbai-00BFA6?style=flat-square&labelColor=0D1B2A&color=00BFA6" />
+  <img src="https://img.shields.io/badge/BCA-AUM-00BFA6?style=flat-square&labelColor=0D1B2A&color=00BFA6" />
   &nbsp;
   <img src="https://img.shields.io/badge/MCA-VIT%20Vellore-00E5CC?style=flat-square&labelColor=0D1B2A&color=00E5CC" />
   &nbsp;
