@@ -108,14 +108,14 @@ OPEN_TO    = "Internships . Collabs . Open Source . Entry-level SDE roles"
 
 ## `$ cat expertise-table.md`
 
-| Domain | Proficiency | Details |
-|--------|-------------|---------|
-| **Frontend Development** | ⭐⭐⭐⭐ | React, Next.js, Tailwind CSS, TypeScript, animations |
-| **Backend Development** | ⭐⭐⭐ | Node.js, Express, REST APIs, middleware design |
-| **Database Design** | ⭐⭐⭐ | MySQL, MongoDB, Supabase PostgreSQL, schema design |
-| **Authentication & Security** | ⭐⭐⭐ | Supabase Auth, RLS, session management |
-| **Cloud Deployment** | ⭐⭐ | Render, Vercel — actively expanding |
-| **System Architecture** | ⭐⭐⭐ | User flows, DB structure, full-stack design decisions |
+| Domain |Details |
+|--------|---------|
+| **Frontend Development** | React, Next.js, Tailwind CSS, TypeScript, animations |
+| **Backend Development** | Node.js, Express, REST APIs, middleware design |
+| **Database Design** | MySQL, MongoDB, Supabase PostgreSQL, schema design |
+| **Authentication & Security** | Supabase Auth, RLS, session management |
+| **Cloud Deployment** | Render, Vercel — actively expanding |
+| **System Architecture** | User flows, DB structure, full-stack design decisions |
 
 ---
 
